@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @mysayasan
-- 👀 I’m interested in understanding drone programming algo
-- 🌱 I’m currently learning go language and software architecture
-- 💞️ I’m looking to collaborate on IR4.0 projects
+- 👀 Any IOT gig just hook me up
 - 📫 You can reach me @gmail - mysayasan
 
